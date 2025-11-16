@@ -1,0 +1,58 @@
+
+[
+  {
+    "sno": 1,
+    "make": "Toyota",
+    "model": "Camry",
+    "category": "Sedan",
+    "baseRate": 120,
+    "perKmRate": 1.2,
+    "extraHrsRate": 15,
+    "extraKmsRate": 1.5,
+    "actions": "Edit / Delete"
+  },
+  {
+    "sno": 2,
+    "make": "Hyundai",
+    "model": "i30",
+    "category": "Hatchback",
+    "baseRate": 100,
+    "perKmRate": 1.0,
+    "extraHrsRate": 12,
+    "extraKmsRate": 1.3,
+    "actions": "Edit / Delete"
+  },
+  {
+    "sno": 3,
+    "make": "Kia",
+    "model": "Sportage",
+    "category": "SUV",
+    "baseRate": 150,
+    "perKmRate": 1.6,
+    "extraHrsRate": 20,
+    "extraKmsRate": 1.8,
+    "actions": "Edit / Delete"
+  },
+  {
+    "sno": 4,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "category": "SUV",
+    "baseRate": 160,
+    "perKmRate": 1.5,
+    "extraHrsRate": 18,
+    "extraKmsRate": 1.7,
+    "actions": "Edit / Delete"
+  },
+  {
+    "sno": 5,
+    "make": "Ford",
+    "model": "Transit",
+    "category": "Van",
+    "baseRate": 180,
+    "perKmRate": 2.0,
+    "extraHrsRate": 22,
+    "extraKmsRate": 2.2,
+    "actions": "Edit / Delete"
+  }
+]

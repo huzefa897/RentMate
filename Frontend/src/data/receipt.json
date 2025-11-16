@@ -1,0 +1,25 @@
+
+[
+  {
+    "ReceiptId": "",
+    "usedDate": "", 
+    "startKms": "", 
+    "endKms": "", 
+    "startTime": "", 
+    "endTime": "", 
+    "totalKms": "", 
+    "extraKms": "", 
+    "totalHrs": "", 
+    "extraHrs": "", 
+    "extraHrsAmt": "", 
+    "extraKmsAmt": "", 
+    "driveBhatta": "", 
+    "baseRate": "",
+    "perKmRate": "",
+    "extraHrsRate": "",
+    "extraKmsRate": "",
+    "parkingCharges": "", 
+    "totalAmount": "", 
+    "vehicle": ""
+  }
+]
